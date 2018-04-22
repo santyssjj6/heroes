@@ -7,3 +7,4 @@
 * Mujer Maravilla
 * Starfire
 * Raven
+* Capitan America
