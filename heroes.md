@@ -8,3 +8,5 @@
 * Starfire
 * Raven
 * Capitan America
+* Chico bestia
+* Mujer maravilla
